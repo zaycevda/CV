@@ -1,5 +1,5 @@
 # Иванов Денис — Android developer, 3+ года опыта  
-📧 ivanov.denis.dev@gmail.com | 📞 +7 (916) 810 08-47 | 🕒 GMT +3 | 🌐 Github  
+📧 ivanov.denis.dev@gmail.com | 📞 +7 (916) 810 08-47 | 🕒 GMT +3
 
 ---
 
